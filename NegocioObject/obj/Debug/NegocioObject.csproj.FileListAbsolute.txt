@@ -1,0 +1,12 @@
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\NegocioObject.dll.config
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\NegocioObject.dll
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\NegocioObject.pdb
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\EntityFramework.dll
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\EntityFramework.SqlServer.dll
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\EntityFramework.xml
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\bin\Debug\EntityFramework.SqlServer.xml
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\obj\Debug\NegocioObject.csproj.AssemblyReference.cache
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\obj\Debug\NegocioObject.csproj.CoreCompileInputs.cache
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\obj\Debug\NegocioObject.csproj.CopyComplete
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\obj\Debug\NegocioObject.dll
+D:\INTEC\Construccion de software\CrudWebAsp\NegocioObject\obj\Debug\NegocioObject.pdb
